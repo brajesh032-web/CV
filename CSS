@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+.container {
+    width: 900px;
+    margin: 40px auto;
+    background: #ffffff;
+    padding: 40px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #1f4e79;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 32px;
+    color: #1f4e79;
+}
+
+.tagline {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 8px 0;
+}
+
+.contact p {
+    margin: 3px 0;
+    font-size: 14px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #1f4e79;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.item {
+    margin-bottom: 15px;
+}
+
+.item h3 {
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.skills {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    color: #777;
+}
