@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Brajesh Sharma | CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>Brajesh Sharma</h1>
+        <p class="tagline">M.Tech (Intelligent Transportation Systems) | Transportation & Infrastructure Professional</p>
+        <div class="contact">
+            <p>Email: your.email@example.com</p>
+            <p>Phone: +91-XXXXXXXXXX</p>
+            <p>Location: Ahmedabad, India</p>
+            <p>LinkedIn: linkedin.com/in/yourprofile</p>
+        </div>
+    </header>
+
+    <section>
+        <h2>Professional Summary</h2>
+        <p>
+            Transportation and infrastructure professional currently pursuing M.Tech in Intelligent Transportation Systems (2025–2028) 
+            at Gati Shakti Vishvavidyalaya. Experienced in railway/metro systems, project coordination, RAMS analysis, 
+            and engineering management. Strong analytical background with applied statistical and reliability methodologies.
+        </p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <div class="item">
+            <h3>M.Tech – Intelligent Transportation Systems</h3>
+            <p>Gati Shakti Vishvavidyalaya | 2025 – 2028</p>
+        </div>
+
+        <div class="item">
+            <h3>Bachelor’s Degree (Add Details)</h3>
+            <p>University Name | Year</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+
+        <!-- Replace this section with actual details from your resume -->
+
+        <div class="item">
+            <h3>Designation</h3>
+            <p>Organization Name | Duration</p>
+            <ul>
+                <li>Describe responsibility using action verbs and quantified impact.</li>
+                <li>Handled project coordination, technical review, and stakeholder management.</li>
+                <li>Worked on metro/railway systems engineering and reliability studies.</li>
+                <li>Prepared technical reports, compliance documentation, and progress monitoring.</li>
+            </ul>
+        </div>
+
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <ul class="skills">
+            <li>Intelligent Transportation Systems (ITS)</li>
+            <li>Railway & Metro Systems</li>
+            <li>RAMS (Reliability, Availability, Maintainability, Safety)</li>
+            <li>Statistical Analysis (t-test, ANOVA, Chi-square)</li>
+            <li>Weibull Distribution & Reliability Modeling</li>
+            <li>Minitab / MS Excel / Data Analysis</li>
+            <li>Project Monitoring & Reporting</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <div class="item">
+            <h3>Academic / Industry Project Title</h3>
+            <ul>
+                <li>Describe problem statement and methodology.</li>
+                <li>Mention tools and statistical techniques used.</li>
+                <li>Highlight measurable outcomes.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>Add relevant certifications</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Publications / Technical Papers (If Any)</h2>
+        <ul>
+            <li>Add details</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2026 Brajesh Sharma</p>
+    </footer>
+
+</div>
+
+</body>
+</html>
